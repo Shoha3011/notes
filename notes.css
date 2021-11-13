@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,900;1,400&display=swap');
+a{
+    color: #24B0F3;
+    font-size: 45px;
+}
+
+.text_ss:hover{
+    border:2px solid #A3A3A3;
+}
+
+.text:hover{
+    border:5px solid #A3A3A3
+}
+
+body{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/znaki_voprosa_figurki_3d_112755_1280x1024.jpg);
+    font-family: 'Roboto', sans-serif; 
+}
+   
+.text{
+    font-family: 'Roboto', sans-serif;
+    color: #FF6A58;
+    font-size: 50px;
+    padding: 100px;
+}
+
+h1{
+    color: #9E9FA4;
+}
